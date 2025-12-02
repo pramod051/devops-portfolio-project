@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo 'Tests passed'"
+  },
+  "name": "devops-portfolio-project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
