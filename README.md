@@ -43,7 +43,6 @@ docker-compose -f docker-compose.monitoring.yml up
 - Grafana: http://localhost:3001
 - _________________________________________________________________
   Deploy & Test
-
 bash
 # Push to GitHub
 git add .
